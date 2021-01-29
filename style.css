@@ -1,0 +1,27 @@
+.card,
+form,
+.alert {
+  max-width: 800px;
+  margin: auto;
+}
+
+button {
+  margin-bottom: 10px;
+}
+
+img {
+  width: 100%;
+  height: 350px;
+  border-radius: 25px;
+}
+
+.btn-info {
+  width: 80px;
+  margin: auto;
+  margin-bottom: 10px;
+}
+
+.utility-btn {
+  display: flex;
+  justify-content: space-between;
+}
